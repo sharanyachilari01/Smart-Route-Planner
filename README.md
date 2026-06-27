@@ -30,10 +30,3 @@ Navigate to the project directory and run the following commands:
 make
 ./RoutePlanner
 ```
-From the interactive menu, you can load the sample data by choosing option 12 and entering `sample_data.txt`.
-
-## Resume Bullet Points
-- Designed and implemented a smart routing system in C++17, simulating real-world navigation software to manage inter-city logistics and compute optimal paths.
-- Engineered a robust, modular graph processing engine using STL structures (such as `unordered_map`, `priority_queue`, and `stack`), optimizing lookup times and network storage.
-- Integrated Dijkstra’s algorithm to calculate shortest paths accurately alongside iterative BFS and DFS algorithms for exhaustive network traversals and connectivity analytics.
-- Developed custom file I/O pipelines ensuring persistence of road network states, complete with a menu-driven UI to ensure seamless user interaction and data validity.
