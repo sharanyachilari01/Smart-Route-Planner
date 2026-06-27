@@ -1,0 +1,17 @@
+[CITIES]
+New York
+Los Angeles
+Chicago
+Houston
+Phoenix
+Philadelphia
+San Antonio
+[ROADS]
+New York,Chicago,790
+New York,Philadelphia,95
+Los Angeles,Phoenix,373
+Chicago,Houston,1082
+Houston,San Antonio,197
+Los Angeles,Houston,1547
+Chicago,Philadelphia,760
+Phoenix,San Antonio,878
